@@ -1,1 +1,1 @@
-[GitHub Profile](https://dumeasiegbu.github.io/markdown-portfolio/)
+[GitHub Profile](https://github.com/dumeasiegbu)
